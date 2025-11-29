@@ -1,0 +1,12 @@
+[
+    {
+        "scriptVersion": "3.00",
+        "date": "x",
+        "changelog": "added a lot"
+    },
+    {
+        "scriptVersion": "2.90",
+        "date": "29.11.2025",
+        "changelog": "test changelog\n\nblabla >w<"
+    }
+]
