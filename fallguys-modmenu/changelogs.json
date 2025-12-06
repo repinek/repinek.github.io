@@ -2,7 +2,7 @@
     {
         "scriptVersion": "3.00",
         "date": "7.12.2025",
-        "changelog": "Global Refactor Update\n\n[+] New Features:\n- Update Checker & In-game Changelogs\n- Platform Spoofing (PS5, PC, etc.)\n- Localization System (Multi-language)\n- UwUify Mode :3\n- Disable Analytics option\n- Better Native Popups\n\n[*] Technical:\n- Complete code rewrite for better stability"
+        "changelog": "Global Refactor Update\n\n[+] New Features:\n- Update Checker & In-game Changelogs\n- Platform Spoofing (PS5, IOS, etc.)\n- Localization System (Multi-language)\n- UwUify Mode :3\n- Disable Analytics option\n- Better Native Popups\n\n[*] Technical:\n- Complete code rewrite for better stability"
     },
     {
         "scriptVersion": "1.02",
