@@ -1,12 +1,12 @@
 [
     {
         "scriptVersion": "3.00",
-        "date": "x",
-        "changelog": "added a lot"
+        "date": "7.12.2025",
+        "changelog": "Fully Script refactor update\nAdded\n- Update Checking\n- Disable Analytics\n- Localization Logic\n- UwUify\n- Changelogs\n- More Popups!\n- Platform spoofing"
     },
     {
-        "scriptVersion": "2.90",
+        "scriptVersion": "1.02",
         "date": "29.11.2025",
-        "changelog": "test changelog\n\nblabla >w<"
+        "changelog": "test changelog\n\nHi if you see it lol!"
     }
 ]
